@@ -2,6 +2,9 @@
 
 A full-stack intelligent chatbot application that enables users to ask questions about public limited companies and receive AI-powered responses with interactive visualizations. The system processes financial documents (earnings calls, investor presentations, financial results) and provides semantic search capabilities with visual outputs for financial trends and metrics.
 
+## 🎯 Live Demo
+Try the live application: https://financial-analysis-assistant.vercel.app/
+
 ## 🚀 Features
 
 - **Intelligent Document Processing**: Automated PDF parsing and text extraction
