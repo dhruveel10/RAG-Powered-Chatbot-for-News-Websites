@@ -31,3 +31,5 @@ backend/query.js
 backend/reconstructed_53ebd66f-800b-4d9e-8848-3716a16851b2_1755579904033.txt
 Assignment-Full Stack Developer.pdf
 frontend/bull-ai/.env
+backend/test-recovery-api.js
+backend/test-recovery.js
